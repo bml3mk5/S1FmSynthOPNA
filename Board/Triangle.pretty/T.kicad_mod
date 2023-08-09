@@ -1,0 +1,14 @@
+(footprint "T" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5FA566BD)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0.5) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e7322d97-7057-4577-aeef-a55ae66710de)
+  )
+  (fp_text value "T" (at 0 -0.5) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0b2a8fdb-afa4-4976-9a0e-60dd49ee8ef1)
+  )
+  (pad "" smd trapezoid (at 0 0) (size 0.63 1) (rect_delta 0 0.62) (layers "F.Cu") (tstamp 927e61ff-0bdd-46e8-b525-6956cf5e9297))
+)

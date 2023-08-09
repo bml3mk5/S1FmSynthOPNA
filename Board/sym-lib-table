@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "MyConnector")(type "KiCad")(uri "${KIPRJMOD}/MyConnector.kicad_sym")(options "")(descr ""))
+  (lib (name "YM2608B")(type "KiCad")(uri "${KIPRJMOD}/YM2608B.kicad_sym")(options "")(descr ""))
+  (lib (name "YM3016D")(type "KiCad")(uri "${KIPRJMOD}/YM3016D.kicad_sym")(options "")(descr ""))
+  (lib (name "MyMemory")(type "KiCad")(uri "${KIPRJMOD}/MyMemory.kicad_sym")(options "")(descr ""))
+)
